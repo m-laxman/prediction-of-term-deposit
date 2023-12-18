@@ -13,11 +13,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the "Prediction_of_term_deposit_static_plots.py" for generating the static plots. \
+Run the "Prediction_of_term_deposit_static_plots.py" for generating the static plots.
 ```python
 python Prediction_of_term_deposit_static_plots.py
 ```
-Run the "Prediction_of_term_deposit_dash.py" for the dashboard. \
+Run the "Prediction_of_term_deposit_dash.py" for the dashboard.
 ```python
 python Prediction_of_term_deposit_dash.py
 ```
