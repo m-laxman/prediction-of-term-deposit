@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+statsmodels
+prettytable
+imblearn
+sklearn
+scikit-learn
+yfinance
+mlxtend
+scipy
+keras
